@@ -1,0 +1,119 @@
+{
+    "about": [
+        {
+            "title": "O que você está buscando?",
+            "sections": [
+                "Investimentos", "Banking", "Empresas", "Precatórios", "Seguros" 
+            ]
+        },
+        {
+            "title": "O BTG Pactual",
+            "sections": [
+                "Investment Banking", "Wealth Management", "Corporate Lending", "Asset Management", "Third Party Distribution", 
+                "Relaçõa com investidores", "Sales e Trading", "Assesor de investimentos", "Blog"
+            ],
+            "type": "large"
+        },
+        {
+            "title": "Carreiras BTG",
+            "sections": [
+                "Buscar Vagas" 
+            ],
+            "underlined": true
+        }
+    ],
+    "contacts": [
+        {
+            "title": "Central de atendimento",
+            "sections": [
+                {
+                    "phone": "4007-2511",
+                    "description": "Capitais e regiões metropolitanas"
+                },
+                {
+                    "phone": "0800-001-2511",
+                    "description": "Demais localidades"
+                },
+                {
+                    "phone": "(11) 4007-2511 ",
+                    "description": "whatsapp"
+                }
+
+            ]
+        },
+        {
+            "multiple": true,
+            "title": "SAC",
+            "size": "medium",
+            "sections": [
+                {
+                    "phone": "0800-772-2827",
+                    "description": "Capitais e regiões metropolitanas"
+                },
+                {
+                    "phone": "0800-047-4335",
+                    "description": "Deficiência auditiva ou de fala"
+                },
+                {
+                    "phone": "sac@btgpactual.com"
+                }
+
+            ],
+            "secondary": {
+                "title": "Perguntas frequentes",
+                "sections": [
+                    {
+                        "phone": "Investimentos"
+                    },
+                    {
+                        "phone": "Banking"
+                    },
+                    {
+                        "phone": "Empresas"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Outros",
+            "sections": [
+                {
+                    "phone": "Ouvidoria: 0800-722-0048"
+                },
+                {
+                    "phone": "Canal de denúncias",
+                    "underlined": false
+                }
+            ],
+            "size": "small"
+        }
+    ],
+    "social": [
+        {
+            "title": "Accesse também",
+            "sections": [
+                "Atendimentos CVM", "Atendimento MRP", "Disclaimer", "Fundos imobiliários", "Assessor de investimentos",
+                "Correspondente bancário", "Política e termos", "Segurança da informação", "Influenciadores"
+            ],
+            "size": "small"
+        },
+        {
+            "title": "Localidades",
+            "sections": [
+                "Brasil", "Argentina", "Estados Unidos", "Colômbia", "Chile", "Peru", "Inglaterra", "México"
+            ],
+            "rowSize": 4,
+            "size": "large"
+        },
+        {
+            "title": "Redes sociais",
+            "sections": [
+                "facebook", "instagram", "linkedin", "youtube", "telegram","tiktok", "spotify", "whatsapp"
+            ],
+            "onlyIcons": true,
+            "size": "small",
+            "rowSize": 6
+
+        }
+    ]
+}

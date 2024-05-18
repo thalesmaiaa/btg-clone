@@ -1,0 +1,30 @@
+{
+    "cards": [
+        {
+            "path": "exchangeIcon",
+            "title": "Câmbio",
+            "description": "Envie ou receba remessas do exterior de forma rápida e segura compadrão BTG Pactual."
+        },
+        {
+            "path": "incomeIcon",
+            "title": "Renda Fixa",
+            "description": "Investimentos para quem busca rentabilidade e segurança. Escolha o ideal para você."
+        },
+        {
+            "path": "variableIcon",
+            "title": "Renda variável",
+            "description": "Invista em ações, futuros, opções e FIIs e busque potencializar os resultados da sua carteira."
+        },
+        {
+            "path": "investmentFundIcon",
+            "title": "Fundo de Investimento",
+            "description": "Uma lista extensa de fundos disponíveis em nossa plataforma para você escolher onde investir."
+        }, 
+        {
+            "path": "pensionIcon",
+            "title": "Previdência",
+            "description": "Diversos planos de previdência privada para fazer seu patrimônio trabalhar para você."
+        }
+
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "cards": [
+        {
+            "path": "digitalIcon",
+            "title": "Conta corrente digital",
+            "description": "Uma conta corrente completa e sem taxa de manutenção com dicas valiosas sobre suas finanças. "
+        },
+        {
+            "path": "creditIcon",
+            "title": "Cartão de Crédito",
+            "description": " Diferentes opções de cartão para você personalizar e escolher os benefícios que mais combinam com você. "
+        },
+        {
+            "path": "blackIcon",
+            "title": "Cartão Black",
+            "description": "O cartão de crédito Black em que você escolhe os benefícios e não paga anuidade ao manter R$ 40 mil investidos com a gente. "
+        },
+        {
+            "path": "cdeIcon",
+            "title": "Conta de Domiciliado no Exterior (CDE)",
+            "description":  "O serviço ideal para quem quer ter uma conta no Brasil, morando em outro país. "
+        }
+    ]
+}
