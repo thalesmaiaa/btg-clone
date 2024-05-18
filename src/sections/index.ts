@@ -1,0 +1,6 @@
+export { CreditSection } from './CreditSection/CreditSection'
+export { BannerSection } from './BannerSection/BannerSection'
+export { InformationSection } from './InformationSection/InformationSection'
+export { DownloadSection } from './DownloadSection/DownloadSection'
+export { ContactSection } from './ContactSection/ContactSection'
+export { FooterSection } from './FooterSection/FooterSection'
